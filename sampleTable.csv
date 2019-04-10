@@ -1,0 +1,5 @@
+SampleNo,SampleName,fileName,celltype
+1,GM12878_rep1,GM12878_rep1.count.txt,GM12878
+2,GM12878_rep2,GM12878_rep2.count.txt,GM12878
+3,H1-hESC_rep1,K562_rep1.count.txt,K562
+4,H1-hESC_rep2,K562_rep2.count.txt,K562
